@@ -9,6 +9,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 ### Pré-requis
 
 Pour executer en local le projet Open Transport, vous devez au préalable installer :- node.js 3.9 ou supérieur
+Pour executer en local le projet Open Transport, vous devez au préalable installer :- Python 3.8 ou supérieur
 
 ```
 A définir
